@@ -1,0 +1,20 @@
+
+/*孙国盛代码*/
+.select .el-input__inner{
+  width: 100% !important;
+}
+.date .el-input__inner{
+  width: 77% !important;
+}
+.el-input el-input--suffix{
+  width: 50% !important;
+}
+.li>.el-row{
+  height: 50px;
+  line-height: 50px;
+}
+.el-table{
+  /*width:90%;*/
+}
+
+/*以上是孙国盛代码*/
